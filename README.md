@@ -34,7 +34,7 @@
 
 ## 📈 Results
 - **Best Model**: Random Forest Regressor
-- **R² Score**: [Value from your results]
+- **R² Score**: 0.98
 - **Key Predictors**: Age, chronic conditions, BMI, smoker status
 - **Insights**: Identified significant cost drivers for insurance pricing strategies
 
@@ -48,7 +48,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/medical-insurance-analysis.git
+git clone (https://github.com/vk27112002/Predictive-Modeling-for-Medical-Expenses/tree/main)
 
 # Navigate to project
 cd medical-insurance-analysis
